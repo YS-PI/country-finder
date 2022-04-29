@@ -1,0 +1,10 @@
+.header {
+  background-color: #2b3743;
+  padding: 20px 0;
+}
+
+.header h1 {
+  color: var(--white);
+  padding: 0 20px;
+  font-size: 16px;
+}
